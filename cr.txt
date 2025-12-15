@@ -1,0 +1,6 @@
+Numéro de binome :
+Prénom + NOM étudiant 1 : 
+Prénom + NOM étudiant 2 : 
+(Prénom + NOM étudiant 3) :
+--
+Q1.
